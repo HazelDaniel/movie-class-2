@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1675861843 source:/home/toughware/Documents/WEB_PROJECTS/CPP-PROJECTS/Movies/main.cpp
+	<iostream>
+	"Movies.h"
+
+1675861877 /home/toughware/Documents/WEB_PROJECTS/CPP-PROJECTS/Movies/Movies.h
+	<string>
+	<vector>
+	"Movie.h"
+
+1675861972 /home/toughware/Documents/WEB_PROJECTS/CPP-PROJECTS/Movies/include/Movie.h
+	<iostream>
+	<string>
+
+1675861830 source:/home/toughware/Documents/WEB_PROJECTS/CPP-PROJECTS/Movies/Movies.cpp
+	<iostream>
+	"Movies.h"
+
